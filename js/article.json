@@ -1,0 +1,13 @@
+{
+  "articles": [
+    {
+      "id": 0,
+      "name": "Himanshu",
+      "email": "helseysin827@gmail.com",
+      "branch": "CSE",
+      "sem": "4",
+      "title": "Lorem Ipsum",
+      "article": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, incidunt!"
+    }
+  ]
+}
